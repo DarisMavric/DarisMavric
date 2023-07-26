@@ -1,10 +1,11 @@
 ### 👨‍💻 Daris Mavric
 
 
-<p>I'm a full-stack developer</p>
+<p>I'm a self-taught full-stack developer from Novi Pazar.I'm 17 years old</p>
 
 ### 🛠 Tech Stack
-
-🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
-🛢   MySQL | MongoDB | Postgres
-🔧   Git | Gitlab | Bitbucket
+<ul>
+  <li>🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs</li>
+  <li>🛢   MySQL | MongoDB | Postgres</li>
+  <li>🔧   Git | Gitlab | </li>
+</ul>
