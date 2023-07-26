@@ -6,6 +6,6 @@
 ### 🛠 Tech Stack
 <ul>
   <li>🌐  HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs</li>
-  <li>🛢   MySQL | MongoDB | Postgres</li>
-  <li>🔧   Git | Gitlab | </li>
+  <li>🛢   MySQL | MongoDB | PostgreSQL </li>
+  <li>🔧   Git | Gitlab </li>
 </ul>
